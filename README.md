@@ -27,7 +27,7 @@ Este é um projeto acadêmico desenvolvido para praticar os conceitos de CRUD (C
 
 ```bash
 git clone https://github.com/biancalmds/Gerenciador-de-livros.git
-cd gerenciador-de-livros
+cd Gerenciador-de-livros
 ```
 
 #### 2. Instale as dependências do projeto:
